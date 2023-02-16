@@ -9,3 +9,4 @@ for i in range (2, n):
     n2=n3
     print(n3)
 print()
+print()
